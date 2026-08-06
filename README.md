@@ -115,8 +115,7 @@ if __name__ == "__main__":
     health_monitoring_agent.monitor_health()
 ```
 ## OUTPUT :
-
-<img width="801" height="391" alt="image" src="https://github.com/user-attachments/assets/7b399ac0-a7d9-4b86-a93e-49739829b2e2" />
+<img width="930" height="521" alt="image" src="https://github.com/user-attachments/assets/1cd759ac-78b5-4732-ba89-edb626210432" />
 
 ## RESULT:
 Thus,developed AI agent with PEAS.
